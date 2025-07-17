@@ -1,8 +1,18 @@
 # Sticker Smash: Expo Learning Project 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app). This was used as a guide and reference for a larger project I'm working on called "Jomi".
 
-## First Expo project in order to learn React Native and Expo project management
+## Objective's
+
+- Create an app using the default template with TypeScript enabled
+- Implement a two-screen bottom tabs layout with Expo Router
+- Break down the app layout and implement it with flexbox
+- Use each platform's system UI to select an image from the media library
+- Create a sticker modal using the Modal and FlatList components from React Native
+- Add touch gestures to interact with a sticker
+- Use third-party libraries to capture a screenshot and save it to the disk
+- Handle platform differences between Android, iOS, and web
+- Finally, go through the process of configuring a status bar, a splash screen, and an icon to complete the app
 
 ## Get started
 
